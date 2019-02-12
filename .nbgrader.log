@@ -1,0 +1,764 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /api/contents/Weeks1n2/Section1-Spark-Basics/1.BasicSpark/7.Parsing%20large%20files.ipynb?content=0&1548034256157 (172.17.0.1): No such file or directory: Weeks1n2/Section1-Spark-Basics/1.BasicSpark/7.Parsing large files.ipynb
+[NotebookApp | WARNING] No such file or directory: Weeks1n2/Section1-Spark-Basics/1.BasicSpark/7.Parsing large files.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Weeks1n2/Section1-Spark-Basics/1.BasicSpark/7.Parsing%20large%20files.ipynb?content=0&1548034256157 (172.17.0.1) 1.93ms referer=http://localhost:2017/lab
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dbd93667-7b5e-4dc8-bd25-01ea44763335
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dbd93667-7b5e-4dc8-bd25-01ea44763335
+[NotebookApp | WARNING] Notebook SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /SparkSQL/2.SparkSQLDataFrameOperations.ipynb
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /api/contents/Weeks1n2/Section1-Spark-Basics/2.SparkSQL?1548034697815 (192.168.1.36): No such file or directory: Weeks1n2/Section1-Spark-Basics/2.SparkSQL
+[NotebookApp | WARNING] No such file or directory: Weeks1n2/Section1-Spark-Basics/2.SparkSQL
+[NotebookApp | WARNING] 404 GET /api/contents/Weeks1n2/Section1-Spark-Basics/2.SparkSQL?1548034697815 (192.168.1.36) 5.26ms referer=http://192.168.1.124:2017/lab
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843
+[NotebookApp | WARNING] 404 GET /api/contents/Weeks1n2/Section1-Spark-Basics/2.SparkSQL/2.SparkSQLDataFrameOperations.ipynb?content=0&1548034697820 (192.168.1.36): No such file or directory: Weeks1n2/Section1-Spark-Basics/2.SparkSQL/2.SparkSQLDataFrameOperations.ipynb
+[NotebookApp | WARNING] No such file or directory: Weeks1n2/Section1-Spark-Basics/2.SparkSQL/2.SparkSQLDataFrameOperations.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Weeks1n2/Section1-Spark-Basics/2.SparkSQL/2.SparkSQLDataFrameOperations.ipynb?content=0&1548034697820 (192.168.1.36) 4.07ms referer=http://192.168.1.124:2017/lab
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dbd93667-7b5e-4dc8-bd25-01ea44763335
+[NotebookApp | WARNING] Notebook SparkSQL/3.S3_HDFS_Parquet.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dbd93667-7b5e-4dc8-bd25-01ea44763335
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for dbd93667-7b5e-4dc8-bd25-01ea44763335:7f7ffc310d69a288d9a569e868bc8e88
+[NotebookApp | INFO] Starting buffering for 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843:eb1c8e98dc306591dfe16a264966df87
+[NotebookApp | INFO] Starting buffering for 046c9dae-f27c-4dd9-9a69-84026a1bc40d:097c13e4caf4b2216d759b42e973a199
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: 046c9dae-f27c-4dd9-9a69-84026a1bc40d
+[NotebookApp | INFO] Kernel shutdown: dbd93667-7b5e-4dc8-bd25-01ea44763335
+[NotebookApp | INFO] Kernel shutdown: 2c0b13a0-c8d4-4eaa-8b20-7a96d4e13843
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Starting buffering for 0ed174dd-1fd4-41a9-a11a-0db283a40414:d5753b7c285465b427e70005828ad895
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 0ed174dd-1fd4-41a9-a11a-0db283a40414:8e803be6fa814ba2e5d7ac4f2d8f50c1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | INFO] Kernel restarted: 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] WebSocket ping timeout after 119996 ms.
+[NotebookApp | WARNING] WebSocket ping timeout after 119996 ms.
+[NotebookApp | INFO] Starting buffering for 0ed174dd-1fd4-41a9-a11a-0db283a40414:c873595513d0988486ca0158a567bf62
+[NotebookApp | INFO] Kernel restarted: 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Restoring connection for 0ed174dd-1fd4-41a9-a11a-0db283a40414:c873595513d0988486ca0158a567bf62
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 0ed174dd-1fd4-41a9-a11a-0db283a40414:c873595513d0988486ca0158a567bf62
+[NotebookApp | INFO] Kernel restarted: 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Restoring connection for 0ed174dd-1fd4-41a9-a11a-0db283a40414:c873595513d0988486ca0158a567bf62
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 0ed174dd-1fd4-41a9-a11a-0db283a40414:c873595513d0988486ca0158a567bf62
+[NotebookApp | INFO] Starting buffering for 51da052e-ef9d-4762-8edd-196885221802:b0d969f82a2d4f2739bd184771a4433b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 0ed174dd-1fd4-41a9-a11a-0db283a40414
+[NotebookApp | INFO] Kernel shutdown: 51da052e-ef9d-4762-8edd-196885221802
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: de6198f3-8866-4fa3-83d8-0433368176cd
+[NotebookApp | INFO] Kernel started: 80b3d077-922e-4935-9381-6660c9f0cc64
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel de6198f3-8866-4fa3-83d8-0433368176cd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel de6198f3-8866-4fa3-83d8-0433368176cd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 80b3d077-922e-4935-9381-6660c9f0cc64
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 80b3d077-922e-4935-9381-6660c9f0cc64
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for de6198f3-8866-4fa3-83d8-0433368176cd:dde497ef3d732e09ea639561d376fb9a
+[NotebookApp | INFO] Starting buffering for 80b3d077-922e-4935-9381-6660c9f0cc64:a910cadc3e0bd0defdc12a2f26ddfed5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 80b3d077-922e-4935-9381-6660c9f0cc64
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 80b3d077-922e-4935-9381-6660c9f0cc64:67e9f0fe0afea3c77f930564fece6a04
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 80b3d077-922e-4935-9381-6660c9f0cc64
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel de6198f3-8866-4fa3-83d8-0433368176cd
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 80b3d077-922e-4935-9381-6660c9f0cc64:c25ec2313134f116b605f7607a18596a
+[NotebookApp | INFO] Starting buffering for de6198f3-8866-4fa3-83d8-0433368176cd:9e2c30f70f73e1fe3b7f4d6effacabba
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: de6198f3-8866-4fa3-83d8-0433368176cd
+[NotebookApp | INFO] Kernel shutdown: 80b3d077-922e-4935-9381-6660c9f0cc64
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Kernel started: b0977ac1-1b6b-497c-a519-b3dd03187ef3
+[NotebookApp | INFO] Kernel started: bbe0fe23-3150-4d94-b1c2-7484be691b2d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b0977ac1-1b6b-497c-a519-b3dd03187ef3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b0977ac1-1b6b-497c-a519-b3dd03187ef3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bbe0fe23-3150-4d94-b1c2-7484be691b2d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bbe0fe23-3150-4d94-b1c2-7484be691b2d
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Starting buffering for b0977ac1-1b6b-497c-a519-b3dd03187ef3:11a597ff6ff5f6049cf5a3dec4073388
+[NotebookApp | INFO] Starting buffering for bbe0fe23-3150-4d94-b1c2-7484be691b2d:7ca8009c23c000a5ff7224967a9c8add
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: b0977ac1-1b6b-497c-a519-b3dd03187ef3
+[NotebookApp | INFO] Kernel shutdown: bbe0fe23-3150-4d94-b1c2-7484be691b2d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/ucsddse230/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Flight_onTime.ipynb is not trusted
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Kernel started: 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | WARNING] WebSocket ping timeout after 119996 ms.
+[NotebookApp | WARNING] WebSocket ping timeout after 119913 ms.
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119898 ms.
+[NotebookApp | WARNING] WebSocket ping timeout after 119929 ms.
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Kernel restarted: 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Kernel restarted: 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Starting buffering for 058f40d1-6255-4f2c-a8ed-df3d19591f40:c3f78d10abfb4878e2096a1dd409b17f
+[NotebookApp | INFO] Starting buffering for 788011a8-b3ad-458b-b6c0-34866e94cf10:4a8855b127596f5c7492adaa7862dfb4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | WARNING] Notebook SparkSQL/2.SparkSQLDataFrameOperations.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 058f40d1-6255-4f2c-a8ed-df3d19591f40:fe53bb29e3f38a3fb69914a99b6bbd80
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Build is up to date
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | INFO] Saving file at /Flight_onTime.ipynb
+[NotebookApp | INFO] Starting buffering for 058f40d1-6255-4f2c-a8ed-df3d19591f40:132acb8e84ff995ff283b454e92fb4d6
+[NotebookApp | INFO] Starting buffering for 788011a8-b3ad-458b-b6c0-34866e94cf10:614f38d0c996f36199b17bdf4d95f35f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 788011a8-b3ad-458b-b6c0-34866e94cf10
+[NotebookApp | INFO] Kernel shutdown: 058f40d1-6255-4f2c-a8ed-df3d19591f40
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/ucsddse230/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
